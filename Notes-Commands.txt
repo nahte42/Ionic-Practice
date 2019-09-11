@@ -7,5 +7,16 @@ Notes:
 	
 Commands:
 	A) ionic serve -l ----- ionic lab ( start app in lab mode to see it on multiple platforms)
-	B) ionic cordova platform add ios -------- (create ios folder in project) BLANK
-	C) ionic cordova platform add android ----- (create android folder in project) BLANK
+	B) ionic cordova platform add ios/android -------- (create ios/android folder in project) BLANK
+	D) ionic cordova emulate browser ----------------- emulate the app on browser
+	
+	
+	
+	
+	
+Code/Tags:
+	ion-button: (e.g.) <ion-button></ion-button>
+	
+	
+Listeners:
+	(click)="function()": (e.g.) <ion-button (click)="function()"></ion-button>
